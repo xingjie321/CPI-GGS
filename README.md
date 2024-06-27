@@ -25,7 +25,7 @@ networkx
 rdkit
 
 wheel
-## Install all python dependent packages and enter the environment you created
+## Go to the environment you created
 ```
 conda activate CPI-GGS
 ```
