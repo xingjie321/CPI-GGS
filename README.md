@@ -3,7 +3,7 @@ A model for predicting compound-protein interactions.
 ## Create an environment and download the following libraries that python depends on
 
 ```
-conda create -n CPI-GGS python = 3.8.0
+conda create -n CPI-GGS python=3.8.0
 ```
 ### The packages that python depends on are as follows
 torch = 1.12.1+cu113 
