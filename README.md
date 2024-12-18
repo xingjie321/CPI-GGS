@@ -35,5 +35,5 @@ python preprocess_data.py
 ```
 ## Start training
 ```
-python training.py
+python Train-CPI-GGS.py
 ```
