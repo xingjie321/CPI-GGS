@@ -1,14 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 19 21:49:54 2019
-
-@author: chenwei
-"""
-
-
-
-
-
 import pickle
 import sys
 import timeit
